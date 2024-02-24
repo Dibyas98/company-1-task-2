@@ -1,8 +1,20 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Crypto calculator
 
-Currently, two official plugins are available:
+The application is used to calculate the Crypto Tax.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+There are some input field which must to be filled such as 
+
+- Purchase price
+
+- sale price
+
+- Expanse price
+
+- Investment term
+
+- Annual income
+
+![1](https://github.com/Dibyas98/company-1-task-2/assets/125633895/2406b743-cfb1-4ced-ba92-77e16dbd7156)
+![2](https://github.com/Dibyas98/company-1-task-2/assets/125633895/749d4d6e-bea8-47ff-a9d7-138eb57af936)
