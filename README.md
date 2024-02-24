@@ -4,6 +4,8 @@
 The application is used to calculate the Crypto Tax.
 
 
+## [Hosted link](fascinating-longma-1c36c9.netlify.app/)
+
 There are some input field which must to be filled such as 
 
 - Purchase price
